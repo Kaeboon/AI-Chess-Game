@@ -1,5 +1,7 @@
 # AI Chess Game
 
+![Alt text](chess.png)
+
 This is a player vs computer AI chess game implemented in Python. The game features an interactive chessboard where players can make moves by entering the current position and the desired new position of a chess piece. Additionally, the game includes an AI opponent with movement implemented using the alpha-beta pruning algorithm.
 
 This project is an extension of my own AY 22/23 S1 CS3243 Project 3.
